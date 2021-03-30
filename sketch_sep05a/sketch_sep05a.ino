@@ -1,3 +1,12 @@
+/*
+            FPS Gaming Air Mouse
+      
+      개발자: 신현규(LionKingSmasher)
+
+      사용언어: 아두이노(C++ or Processing)
+      사용 모듈: 자이로센서
+*/
+
 #include <Keyboard.h>
 #include <Mouse.h>
 #include <Wire.h>
